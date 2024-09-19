@@ -1,0 +1,179 @@
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.exe
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.deps.json
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.runtimeconfig.json
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.pdb
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.AssemblyReference.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Form1.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Регистрация.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.GenerateResource.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfoInputs.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfo.cs
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\refint\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.pdb
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.genruntimeconfig.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\ref\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Формацефт.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Администратор.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_администратора.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_товароведа.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Прграмма\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Товаровед.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.exe
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.deps.json
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.runtimeconfig.json
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.dll
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.pdb
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Form1.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Администратор.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_администратора.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_товароведа.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Товаровед.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Формацефт.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfo.cs
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.dll
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\refint\Курсач.dll
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.pdb
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.genruntimeconfig.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\ref\Курсач.dll
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Добавление_рабочего.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Удаление_рабочего.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.УдалениеТовара.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.УдаленияТовараСоСклада.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ЗаказатьТовар.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ОтправаТовараВАптеку.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ПринятиеТовара.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ИсторияПродуктов.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.exe
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.deps.json
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.runtimeconfig.json
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.dll
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.pdb
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Form1.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Администратор.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_администратора.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_товароведа.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Добавление_рабочего.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ЗаказатьТовар.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ИсторияПродуктов.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ОтправаТовараВАптеку.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ПринятиеТовара.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Товаровед.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Удаление_рабочего.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.УдалениеТовара.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.УдаленияТовараСоСклада.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Формацефт.resources
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfo.cs
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.dll
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\refint\Курсач.dll
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.pdb
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.genruntimeconfig.cache
+C:\Users\danil\Desktop\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\ref\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.exe
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.deps.json
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.runtimeconfig.json
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\bin\Debug\net7.0-windows\Курсач.pdb
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.AssemblyReference.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Form1.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Администратор.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_администратора.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_товароведа.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Вход.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Добавление_рабочего.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ЗаказатьТовар.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ИсторияПродуктов.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ОтправаТовараВАптеку.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.ПринятиеТовара.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Товаровед.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Удаление_рабочего.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.УдалениеТовара.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.УдаленияТовараСоСклада.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.Формацефт.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.GenerateResource.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfoInputs.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfo.cs
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\refint\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.pdb
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\Курсач.genruntimeconfig.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач 2\Курсач\Курсач\Курсач\Курсач\obj\Debug\net7.0-windows\ref\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.exe
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.deps.json
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.runtimeconfig.json
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.pdb
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.AssemblyReference.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Form1.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Администратор.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_администратора.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_товароведа.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Вход.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Добавление_рабочего.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.ЗаказатьТовар.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.ИсторияПродуктов.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.ОтправаТовараВАптеку.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.ПринятиеТовара.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Товаровед.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Удаление_рабочего.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.УдалениеТовара.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.УдаленияТовараСоСклада.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Формацефт.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.GenerateResource.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfoInputs.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfo.cs
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\refint\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.pdb
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.genruntimeconfig.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\ref\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.exe
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.deps.json
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.runtimeconfig.json
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\bin\Debug\net7.0-windows\Курсач.pdb
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.AssemblyReference.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Form1.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Администратор.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_администратора.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Вход_товароведа.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Вход.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Добавление_рабочего.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.ЗаказатьТовар.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.ИсторияПродуктов.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.ОтправаТовараВАптеку.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.ПринятиеТовара.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Товаровед.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Удаление_рабочего.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.УдалениеТовара.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.УдаленияТовараСоСклада.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.Формацефт.resources
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.GenerateResource.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfoInputs.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.AssemblyInfo.cs
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\refint\Курсач.dll
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.pdb
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\Курсач.genruntimeconfig.cache
+C:\Users\olegs\OneDrive\УЧЕБА\Курсовая работа 2023 ИСП11-31ВБ Синицын\Программа для курсовой\Курсач (УПЛСА) СиницынО\Курсач (УПЛСА) СиницынО.Е\Курсач\obj\Debug\net7.0-windows\ref\Курсач.dll

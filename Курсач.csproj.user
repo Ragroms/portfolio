@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Администратор.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Вход администратора.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Вход товароведа.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Вход.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Добавление_рабочего.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ЗаказатьТовар.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ИсторияПродуктов.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ОтправаТовараВАптеку.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ПринятиеТовара.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Товаровед.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Удаление_рабочего.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="УдалениеТовара.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="УдаленияТовараСоСклада.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Формацефт.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
