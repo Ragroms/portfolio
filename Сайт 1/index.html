@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<!-- Язык страници по умолчанию -->
+<html lang="ru">
+<head>
+    <!-- Время на сайте, вообще не важная штука -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- шрифт берется из файла reset -->
+    <link rel="stylesheet" href="reset.css">
+    <!-- Стили берутся из style -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Скрипты берутся из script -->
+    <script src="script.js"></script>
+    <!-- Иконка во вкладке сайта  -->
+    <link rel="icon" href="img\logo.ico" type="image/x-icon">
+    <!-- Название вкладки сайта  -->
+    <title>PiiMaxmi</title>
+</head>
+<!-- Шапка сайта -->
+<body>
+    <!-- Класс отсылает в стили все они берутся из style -->
+    <div class="wrapper">
+        <header>
+            <!-- Класс лого logo пренадлежит логотипу в левом верхнем углу и названию сайта при нажатии на них тебя кидает на главную страницу под названием index -->
+            <div class="logo" onclick="index()">
+                <!-- Картинка для логотипа  -->
+                <img src="img/logo.png" alt="logo">
+                <!-- Название для логотипа -->
+                <span class="logo-text"><span style="color: #EE3E54;">Pii</span>Maxmi</span>
+            </div>
+            <!-- Выдвежение текста к середине с помоью стилей -->
+            <div class="mid-section">
+                <!-- Ненумерованный список с вкладками  -->
+                <nav> 
+                    <ul class="first-ul">
+                        <li>
+                            <li><a href="#" onclick="anime_goods()">Аниме</a></li>
+                            <li><a href="#" onclick="anime_goods2()">Корея</a></li>
+                            <li><a href="#" onclick="anime_goods3()">Манга</a></li>
+                            <li><a href="#" onclick="anime_goods4()">Еда</a></li>
+                    </ul>
+                </nav>
+                <!-- тили для поисковаой строки -->
+                <div class="search">
+                    <!-- Посковая строка -->
+                    <input type="text" value="" name="s" id="s" class="s" placeholder="Поиск">
+                    <!-- Лупа -->
+                    <div id="searchsubmit" class="searchsubmit" name="searchform__button" aria-label="Search Button">
+                    </div>
+                </div>
+            </div>
+            <!-- Сдвик обектов вправо с помощью стилей -->
+            <div class="right-section">
+                <!-- Челавечек для входа в профиль -->
+            <div class="login-section" onclick="entrance()">
+                <img src="img/user.svg" alt="">
+                <span>Войти</span>
+            </div>
+            <!-- Корзина  -->
+            <img class="basket" onclick="basket()" src="img/basket.png" alt="">
+            </div>
+        </header>
+        <!-- Конец шаки. Начала тела сайта -->
+        <div class="content">
+        <h2>Хиты продаж</h2>
+        <!-- Хиты продаж "картинки с девочками" Расположение их по стилю content-section content-section-1 
+         href="#" - делает так чтобы картинка при наводке на нее курсор меняла на руку 
+         onclick отсылает на js tovar который в своею очередь перекидывает на страницу товара-->
+        <div class="content-section content-section-1">
+            <a href="#"><img onclick="tovar1()" src="img/hit1.png" alt=""></a>
+            <a href="#"><img onclick="tovar2()" src="img/hit2.png" alt=""></a>
+            <a href="#"><img onclick="tovar3()" src="img/hit3.png" alt=""></a>
+            <a href="#"><img onclick="tovar4()" src="img/hit4.png" alt=""></a>
+            <!-- Картинки стрелок -->
+            <img class="ar-left" src="img/ar-left.png" alt="">
+            <img class="ar-right" src="img/ar-right.png" alt="">
+
+        </div>
+        <!-- Все тоже что и с девочками  -->
+        <div class="content-section content-section-2">
+            <div class="content-section-2-box">
+                <h2>Конкурсы</h2>
+                <img onclick="tovar()" src="img/konkursi.png" alt="">
+            </div>
+            <div class="content-section-2-box">
+                <h2>Рандомная вещь</h2>
+                <img onclick="tovar()" src="img/random.png" alt="">
+            </div>
+            <div class="content-section-2-box">
+                <h2>Акции</h2>
+                <img onclick="tovar()" src="img/actii.jpg" alt="">
+            </div>
+        </div>
+        </div>
+        <!-- Канец тела. начала нижнего калантитула  -->
+        <footer>
+            <!-- Стиль всего нижнего калантитула  -->
+            <div class="footer-box">
+                <!-- ННазвание сайта с наложенным стилем -->
+                <div class="footer-box-header">PiiMaxmi</div>
+                <div>© 2024 ООО «PiiMaxmi»</div>
+                <!-- Ненумерованный список но со стилем отмены номера  -->
+                <ol>
+                    <li>Эл.почта: ~~~@mail.ru</li>
+                    <li><strong>Контактный центр:</strong></li>
+                    <li>+7(9~~)~~~-~~-~~</li>
+                    <li>г. Москва<br>Кирпичная улица, 33</li>
+                </ol>
+            </div>
+            <!-- Стиль сдвига элементов на середину -->
+            <div class="footer-box">
+                <!-- Заголовок  -->
+                <div class="footer-box-header fbhnav">Навигация</div>
+                <!-- Ненумерованный спписок с теми же функциями что и девочек -->
+                <ul class="footer-navigation-list">
+                    <li><a href="#" onclick="contacts()">О нас</a></li>
+                    <li><a href="#" onclick="reviews()">Отзывы</a></li>
+                    <li><a href="#" onclick="contacts()">Контакты</a></li>
+                </ul>
+
+            </div>
+            <!-- Стиль со сдвигом в право  -->
+            <div class="footer-box">
+                <div class="footer-box-header">Социальные сети</div>
+                <!-- Ненумерованный список с сылками в соц сети   -->
+                <ul>
+                    <li>
+                        <a href="https://vk.com/"><img src="img/icon-vk.png" alt=""></a>
+                        <a href="https://vk.com/">ВКонтакте</a>
+                    </li>
+                    <li>
+                        <a href="https://web.telegram.org/"><img src="img/icon-telegram.png" alt=""></a>
+                        <a href="https://web.telegram.org/">Телеграм</a>
+                    </li>
+                    <li>
+                        <a href="https://web.telegram.org/"><img src="img/icons-tiktok.png" alt=""></a>
+                        <a href="https://web.telegram.org/">TikTok</a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>

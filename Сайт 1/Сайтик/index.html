@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <link rel="icon" href="img\logo.ico" type="image/x-icon">
+    <title>PiiMaxmi</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+
+            <div class="logo" onclick="index()">
+                <img src="img/logo.png" alt="logo">
+                <span class="logo-text"><span style="color: #EE3E54;">Pii</span>Maxmi</span>
+            </div>
+
+            <div class="mid-section">
+                <nav>
+                    <ul class="first-ul">
+                        <li>
+                            <li><a href="#" onclick="anime_goods()">Аниме</a></li>
+                            <li><a href="#" onclick="anime_goods2()">Корея</a></li>
+                            <li><a href="#" onclick="anime_goods3()">Манга</a></li>
+                            <li><a href="#" onclick="anime_goods4()">Еда</a></li>
+                    </ul>
+                </nav>
+                <div class="search">
+                    <input type="text" value="" name="s" id="s" class="s" placeholder="Поиск">
+                    <div id="searchsubmit" class="searchsubmit" name="searchform__button" aria-label="Search Button">
+                    </div>
+                </div>
+            </div>
+
+            <div class="right-section">
+            <div class="login-section" onclick="entrance()">
+                <img src="img/user.svg" alt="">
+                <span>Войти</span>
+            </div>
+            <img class="basket" onclick="basket()" src="img/basket.png" alt="">
+            </div>
+        </header>
+        <div class="content">
+        <h2>Хиты продаж</h2>
+        <div class="content-section content-section-1">
+            <a href="#"><img onclick="tovar()" src="img/hit1.png" alt=""></a>
+            <a href="#"><img onclick="tovar()" src="img/hit2.png" alt=""></a>
+            <a href="#"><img onclick="tovar()" src="img/hit3.png" alt=""></a>
+            <a href="#"><img onclick="tovar()" src="img/hit4.png" alt=""></a>
+            <img class="ar-left" src="img/ar-left.png" alt="">
+            <img class="ar-right" src="img/ar-right.png" alt="">
+
+        </div>
+        <div class="content-section content-section-2">
+            <div class="content-section-2-box">
+                <h2>Конкурсы</h2>
+                <img onclick="tovar()" src="img/konkursi.png" alt="">
+            </div>
+            <div class="content-section-2-box">
+                <h2>Рандомная вещь</h2>
+                <img onclick="tovar()" src="img/random.png" alt="">
+            </div>
+            <div class="content-section-2-box">
+                <h2>Акции</h2>
+                <img onclick="tovar()" src="img/actii.jpg" alt="">
+            </div>
+        </div>
+        </div>
+
+        <footer>
+            <div class="footer-box">
+                <div class="footer-box-header">PiiMaxmi</div>
+                <div>© 2024 ООО «PiiMaxmi»</div>
+                <ol>
+                    <li>Эл.почта: ~~~@mail.ru</li>
+                    <li><strong>Контактный центр:</strong></li>
+                    <li>+7(9~~)~~~-~~-~~</li>
+                    <li>г. Москва<br>Кирпичная улица, 33</li>
+                </ol>
+                
+
+            </div>
+            <div class="footer-box">
+                <div class="footer-box-header fbhnav">Навигация</div>
+                <ul class="footer-navigation-list">
+                    <li><a href="#" onclick="contacts()">О нас</a></li>
+                    <li><a href="#" onclick="reviews()">Отзывы</a></li>
+                    <li><a href="#" onclick="contacts()">Контакты</a></li>
+                </ul>
+
+            </div>
+            <div class="footer-box">
+                <div class="footer-box-header">Социальные сети</div>
+                <ul>
+                    <li>
+                        <a href="https://vk.com/"><img src="img/icon-vk.png" alt=""></a>
+                        <a href="https://vk.com/">ВКонтакте</a>
+                    </li>
+                    <li>
+                        <a href="https://web.telegram.org/"><img src="img/icon-telegram.png" alt=""></a>
+                        <a href="https://web.telegram.org/">Телеграм</a>
+                    </li>
+                    <li>
+                        <a href="https://web.telegram.org/"><img src="img/icons-tiktok.png" alt=""></a>
+                        <a href="https://web.telegram.org/">TikTok</a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>

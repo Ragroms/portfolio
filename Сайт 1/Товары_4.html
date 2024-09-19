@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <link rel="icon" href="img\logo.ico" type="image/x-icon">
+    <title>PiiMaxmi</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+
+            <div class="logo" onclick="index()">
+                <img src="img/logo.png" alt="logo">
+                <span class="logo-text"><span style="color: #EE3E54;">Pii</span>Maxmi</span>
+            </div>
+
+            <div class="mid-section">
+                <nav>
+                    <ul class="first-ul">
+                        <li>
+                            <li><a href="#" onclick="anime_goods()">Аниме</a></li>
+                            <li><a href="#" onclick="anime_goods2()">Корея</a></li>
+                            <li><a href="#" onclick="anime_goods3()">Манга</a></li>
+                            <li><a href="#" onclick="anime_goods4()">Еда</a></li>
+                    </ul>
+                </nav>
+                <div class="search">
+                    <input type="text" value="" name="s" id="s" class="s" placeholder="Поиск">
+                    <div id="searchsubmit" class="searchsubmit" name="searchform__button" aria-label="Search Button">
+                    </div>
+                </div>
+            </div>
+
+            <div class="right-section">
+                <div class="login-section" onclick="entrance()">
+                    <img src="img/user.svg" alt="">
+                    <span>Войти</span>
+                </div>
+                <img class="basket" onclick="basket()" src="img/basket.png" alt="">
+            </div>
+        </header>
+        <div class="content">
+            <div class="crumbs">
+                <span>Главная</span>
+                <span> / </span>
+                <span>Азиатские закуски</span>
+            </div>
+            <div class="cards">
+                <div class="card">
+                    <img class="card-img" src="img\dsk8_1.png" alt="">
+                    <div class="card-desc">
+                        <img src="img/heart.png" alt="">
+                        <div>Лапша Самянг с курицей острая</div>
+                    </div>
+                    <div class="card-price-basket">
+                        <div class="card-price">250 ₽</div>
+                        <img class="card-basket" src="img/card-basket.png" alt="">
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img" src="img\fdc7f93ae62dd779abbbf73e771fb596.png" alt="">
+                    <div class="card-desc">
+                        <img src="img/heart.png" alt="">
+                        <div>Рисовые палочки с перчиком чили</div>
+                    </div>
+                    <div class="card-price-basket">
+                        <div class="card-price">100 ₽</div>
+                        <img class="card-basket" src="img/card-basket.png" alt="">
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img" src="img\$_57.JPG" alt="">
+                    <div class="card-desc">
+                        <img src="img/heart.png" alt="">
+                        <div>Набор японских конфет</div>
+                    </div>
+                    <div class="card-price-basket">
+                        <div class="card-price">3050 ₽</div>
+                        <img class="card-basket" src="img/card-basket.png" alt="">
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img" src="img\424f7deb9a399fa070f1febcbd8cf88b.png" alt="">
+                    <div class="card-desc">
+                        <img src="img/heart.png" alt="">
+                        <div>Набор напитков 
+                            Meiji  </div>
+                    </div>
+                    <div class="card-price-basket">
+                        <div class="card-price">400 ₽</div>
+                        <img class="card-basket" src="img/card-basket.png" alt="">
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img class="card-img" src="img\5186-800x800.jpg" alt="">
+                    <div class="card-desc">
+                        <img src="img/heart.png" alt="">
+                        <div>Pocky
+                            со вкусом клубнки</div>
+                    </div>
+                    <div class="card-price-basket">
+                        <div class="card-price">75₽</div>
+                        <img class="card-basket" src="img/card-basket.png" alt="">
+                    </div>
+                </div>
+                <div class="card">
+                    <img class="card-img" onclick="tovar()" src="img\1080x1619 1.png" alt="">
+                    <div class="card-desc">
+                        <img src="img/heart.png" alt="">
+                        <div>Снек японский Нори Корн с имбирем</div>
+                    </div>
+                    <div class="card-price-basket">
+                        <div class="card-price">370₽</div>
+                        <img class="card-basket" src="img/card-basket.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <div class="footer-box">
+                <div class="footer-box-header">PiiMaxmi</div>
+                <div>© 2024 ООО «PiiMaxmi»</div>
+                <ol>
+                    <li>Эл.почта: piimaxmi@gmail.com</li>
+                    <li><strong>Контактный центр:</strong></li>
+                    <li>+7(964)453-05-15</li>
+                    <li>г. Москва,<br>поселение Воскресенское,<br>Чечёрский проезд, 51</li>
+                </ol>
+
+
+            </div>
+            <div class="footer-box">
+                <div class="footer-box-header fbhnav">Навигация</div>
+                <ul class="footer-navigation-list">
+                    <li><a href="#">О нас</a></li>
+                    <li><a href="#" onclick="reviews()">Отзывы</a></li>
+                    <li><a href="#" onclick="contacts()">Контакты</a></li>
+                </ul>
+
+            </div>
+            <div class="footer-box">
+                <div class="footer-box-header">Социальные сети</div>
+                <ul>
+                    <li>
+                        <a href="#"><img src="img/icon-vk.png" alt=""></a>
+                        <a href="#">ВКонтакте</a>
+                    </li>
+                    <li>
+                        <a href="#"><img src="img/icon-telegram.png" alt=""></a>
+                        <a href="#">Телеграм</a>
+                    </li>
+                    <li>
+                        <a href="#"><img src="img/icons-tiktok.png" alt=""></a>
+                        <a href="#">TikTok</a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+</body>
+q
+</html>

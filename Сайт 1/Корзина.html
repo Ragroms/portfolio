@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <link rel="icon" href="img\logo.ico" type="image/x-icon">
+    <title>PiiMaxmi</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+
+            <div class="logo" onclick="index()">
+                <img src="img/logo.png" alt="logo">
+                <span class="logo-text"><span style="color: #EE3E54;">Pii</span>Maxmi</span>
+            </div>
+
+            <div class="mid-section">
+                <nav>
+                    <ul class="first-ul">
+                        <li>
+                            <li><a href="#" onclick="anime_goods()">Аниме</a></li>
+                            <li><a href="#" onclick="anime_goods2()">Корея</a></li>
+                            <li><a href="#" onclick="anime_goods3()">Манга</a></li>
+                            <li><a href="#" onclick="anime_goods4()">Еда</a></li>
+                    </ul>
+                </nav>
+                <div class="search">
+                    <input type="text" value="" name="s" id="s" class="s" placeholder="Поиск">
+                    <div id="searchsubmit" class="searchsubmit" name="searchform__button" aria-label="Search Button">
+                    </div>
+                </div>
+            </div>
+
+            <div class="right-section">
+                <div class="login-section" onclick="entrance()">
+                    <img src="img/user.svg" alt="">
+                    <span>Войти</span>
+                </div>
+                <img class="basket" onclick="basket()" src="img/basket.png" alt="">
+            </div>
+        </header>
+        <div class="content">
+            <div class="crumbs">
+                <span>Главная</span>
+                <span> / </span>
+                <span>Корзина</span>
+            </div>
+            <div class="dsk8_section_1">
+                <div class="dsk8_section_1_box1">
+                    <div class="dsk8_card">
+                        <div class="dsk8_card_img_box">
+                            <img class="dsk8_card_img" src="img/dsk8_1.png" alt="">
+                            <img class="dsk8_card_heart" src="img/heart.png" alt="">
+                            <img class="dsk8_card_basket" src="img/basket_1.png" alt="">
+                        </div>
+                        <div class="dsk8_card_desc">
+                            <div class="dsk8_card_title">Лапша Самянг с курицей <br>острая</div>
+                            <div class="card-img-col-count dsk8_card_col">
+                                <img src="img/minus.png" alt="">
+                                <span>1</span>
+                                <img src="img/plus.png" alt="">
+                            </div>
+                            <div class="dsk8_card_price">100 ₽</div>
+                        </div>
+                    </div>
+                    <div class="dsk8_card">
+                        <div class="dsk8_card_img_box">
+                            <img class="dsk8_card_img" src="img/dsk8_2.png" alt="">
+                            <img class="dsk8_card_heart" src="img/heart.png" alt="">
+                            <img class="dsk8_card_basket" src="img/basket_1.png" alt="">
+                        </div>
+                        <div class="dsk8_card_desc">
+                            <div class="dsk8_card_title">ENHYPEN <br>DIMENSION: ANSWER</div>
+                            <div class="card-img-col-count dsk8_card_col">
+                                <img src="img/minus.png" alt="">
+                                <span>1</span>
+                                <img src="img/plus.png" alt="">
+                            </div>
+                            <div class="dsk8_card_price">2000 ₽</div>
+                        </div>
+                    </div>
+                    <div class="dsk8_card">
+                        <div class="dsk8_card_img_box">
+                            <img class="dsk8_card_img" onclick="tovar()" src="img/dsk8_3.png" alt="">
+                            <img class="dsk8_card_heart" src="img/heart.png" alt="">
+                            <img class="dsk8_card_basket" src="img/basket_1.png" alt="">
+                        </div>
+                        <div class="dsk8_card_desc">
+                            <div class="dsk8_card_title">Фигурка <br>Blue Archive</div>
+                            <div class="card-img-col-count dsk8_card_col">
+                                <img src="img/minus.png" alt="">
+                                <span>1</span>
+                                <img src="img/plus.png" alt="">
+                            </div>
+                            <div class="dsk8_card_price">5500 ₽</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dsk8_section_1_box2">
+                    <img src="img/dsk8_11.png" alt="">
+                </div>
+            </div>
+            <div class="dsk8_section_2">
+                <div class="dsk8_section_2_box1">
+                    <img src="img/dsk8_12.png" alt="">
+                </div>
+                <div class="dsk8_section_2_box2">
+                    <div><span>Сумма</span><span>7 600 ₽</span></div>
+                    <div><span>Скидочный купон</span><span>0 ₽</span></div>
+                    <div><span>Итог:</span><span>7 600 ₽</span></div>
+                    <button>Оформить заказ</button>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <div class="footer-box">
+                <div class="footer-box-header">PiiMaxmi</div>
+                <div>© 2024 ООО «PiiMaxmi»</div>
+                <ol>
+                    <li>Эл.почта: piimaxmi@gmail.com</li>
+                    <li><strong>Контактный центр:</strong></li>
+                    <li>+7(964)453-05-15</li>
+                    <li>г. Москва,<br>поселение Воскресенское,<br>Чечёрский проезд, 51</li>
+                </ol>
+
+
+            </div>
+            <div class="footer-box">
+                <div class="footer-box-header fbhnav">Навигация</div>
+                <ul class="footer-navigation-list">
+                    <li><a href="#" onclick="contacts()">О нас</a></li>
+                    <li><a href="#" onclick="reviews()">Отзывы</a></li>
+                    <li><a href="#" onclick="contacts()">Контакты</a></li>
+                </ul>
+
+            </div>
+            <div class="footer-box">
+                <div class="footer-box-header">Социальные сети</div>
+                <ul>
+                    <li>
+                        <a href="https://vk.com/"><img src="img/icon-vk.png" alt=""></a>
+                        <a href="https://vk.com/">ВКонтакте</a>
+                    </li>
+                    <li>
+                        <a href="https://web.telegram.org/"><img src="img/icon-telegram.png" alt=""></a>
+                        <a href="https://web.telegram.org/">Телеграм</a>
+                    </li>
+                    <li>
+                        <a href="https://www.tiktok.com/"><img src="img/icons-tiktok.png" alt=""></a>
+                        <a href="https://www.tiktok.com/">TikTok</a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>

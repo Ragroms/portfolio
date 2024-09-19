@@ -1,0 +1,921 @@
+/* Шришты  */
+@font-face {
+    font-weight: 400;
+    font-family: "Inter";
+    src: url("fonts/Inter-Regular.ttf");
+}
+
+@font-face {
+    font-weight: 700;
+    font-family: "Inter";
+    src: url("fonts/Inter-Bold.ttf");
+}
+/* Конец шрифтов */
+/* Фон и шрифты сайта  */
+body {
+    font-family: "Inter", sans-serif;
+    background: #201f1f;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    margin: 0 auto 15px;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+    background-color: #2c2c2c;
+}
+
+.content {
+    margin: 60px 65px;
+}
+
+footer {
+    color: #FFFFFF;
+    background-color: #330009;
+    padding: 40px 275px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    font-size: 18px;
+    font-weight: 400;
+    box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.footer-box-header {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+.footer-box ul {
+    margin-top: 10px;
+}
+
+.footer-box ol li {
+    margin-top: 15px;
+}
+
+.footer-box li {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.footer-box li img {
+    width: 50px;
+    height: 51px;
+    margin-right: 5px;
+}
+
+.fbhnav {
+    margin-bottom: 15px;
+}
+
+.footer-navigation-list li {
+    margin: 0 0 12px 0;
+}
+
+header {
+    background-color: #330009;
+    padding: 0 40px;
+    display: flex;
+    color: #FFFFFF;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 20px;
+}
+
+header ul li {
+    display: inline-block;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.logo img {
+    margin-right: 12px;
+    width: 124px;
+    height: 117px;
+}
+
+.right-section {
+    width: 155px;
+    justify-content: space-between;
+}
+
+.login-section img {
+    margin-right: 10px;
+    width: 24px;
+    height: 24px;
+}
+
+.right-section,
+.login-section {
+    display: flex;
+    align-items: center;
+}
+
+.basket {
+    width: 30px;
+    height: 25px;
+}
+
+.mid-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 544px;
+}
+
+.mid-section .first-ul {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+}
+
+.mid-section ul li {
+    margin: auto;
+}
+
+.search {
+    position: relative;
+    margin-left: 15px;
+}
+
+.search input {
+
+    width: 220px;
+    height: 24px;
+
+    background: rgba(255, 255, 255, 0.5);
+    opacity: 0.52;
+    border-radius: 15px;
+    padding: 0px 30px;
+    gap: 10px;
+
+    border: 1px solid #eef1f5;
+    outline: none;
+
+    transition: all .3s;
+}
+
+.search input::placeholder {
+    width: 43px;
+    height: 17px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    align-items: flex-start;
+}
+
+#searchsubmit {
+    background-image: url(img/search.svg);
+    background-size: cover;
+    opacity: .15;
+    border: none;
+    cursor: pointer;
+    height: 15px;
+    padding: 0;
+    position: absolute;
+    top: 4px;
+    left: 10px;
+    width: 15px;
+    transition: all .3s;
+}
+
+.content-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-section-1 {
+    margin: 60px auto 0;
+    border-radius: 42px;
+    background: #2C2C2C;
+    border: 3px solid #FF002D;
+    position: relative;
+}
+
+.content-section-1 .ar-left {
+    position: absolute;
+    top: calc(52% - 57px);
+    left: 0;
+}
+
+.content-section-1 .ar-right {
+    position: absolute;
+    top: calc(52% - 57px);
+    right: 0;
+}
+
+.content-section img {
+    border-radius: 42px;
+}
+
+.content-section-2-box {
+    border-radius: 35px;
+    background: #2C2C2C;
+    border: 3px solid #FF002D;
+    padding: 25px 35px 35px;
+    max-width: 377px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.content-section-2 {
+    margin: 65px auto;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    position: relative;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    padding: 0 15px 0 0;
+    text-decoration: none;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 120%;
+    background-color: white;
+    color: #000;
+    list-style: disc;
+    padding: 0 20px 20px 40px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+nav ul a:hover {
+    text-decoration: underline;
+}
+
+/* отображаем выпадающий список при наведении */
+nav ul li:hover>ul {
+    display: inherit;
+}
+
+/* первый уровень выпадающего списка */
+nav ul ul li {
+    float: none;
+    display: list-item;
+    position: relative;
+}
+
+.crumbs {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+    text-align: left;
+
+}
+
+.crumbs span:first-of-type {
+    color: #EE3E54;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 35px auto 0;
+}
+
+.card {
+    width: 382px;
+    padding: 15px 40px 20px;
+    background-color: white;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.card:nth-child(1),
+.card:nth-child(2),
+.card:nth-child(3) {
+    margin-bottom: 55px;
+}
+
+.card-img {
+    width: 301px;
+    height: 381px;
+    border-radius: 38px;
+}
+
+.card-desc {
+    display: flex;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #472B29;
+    margin: 10px auto 15px;
+}
+
+.card-desc img {
+    width: 34px;
+    height: 30px;
+}
+
+.card-price-basket {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-price {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #330009;
+}
+
+.content-wrapper {
+    margin: 45px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-img-harac {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #360E14;
+}
+
+.card-img-desc {
+    /* display: inline-block; */
+    margin: auto 0 auto;
+    background-color: white;
+    border-radius: 25px;
+    padding: 20px 25px;
+    position: relative;
+}
+
+
+
+.card-img-title {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #8A0000;
+    margin: 0 auto 15px;
+}
+
+.card-img-desc-heart {
+    position: absolute;
+}
+
+.card-img-col {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 45px auto 55px;
+    width: 283px;
+}
+
+.card-img-col span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+
+.card-img-col-txt {
+    color: #8A0000;
+}
+
+.card-img-col-count {
+    width: 164px;
+    height: 43px;
+    border: 2px solid #8A0000;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 7px 21px;
+    color: black;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.card-img-price {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-img-price span {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #330009;
+}
+
+.card-img-price button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 10px;
+
+    width: 207px;
+    height: 63px;
+
+    background: #8A0000;
+    color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+/* desktop 8 */
+.dsk8_section_1_box1 {
+    width: 776px;
+}
+
+.dsk8_card_col {
+    margin: auto;
+}
+
+.dsk8_card_desc {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 0 0 0 25px;
+    width: calc(100% - 239px);
+}
+
+.dsk8_card_title {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #472B29;
+}
+
+.dsk8_card_price {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #330009;
+    margin: 0 0 0 auto;
+}
+
+.dsk8_section_1 {
+    margin: 45px auto;
+}
+
+.dsk8_card_img {
+    width: 239px;
+    height: 294px;
+    border-radius: 50px;
+}
+
+.dsk8_card_img_box {
+    position: relative;
+    width: 239px;
+}
+
+.dsk8_card_heart,
+.dsk8_card_basket {
+    position: absolute;
+    bottom: 0;
+}
+
+.dsk8_card_basket {
+    right: 0;
+}
+
+.dsk8_card_heart {
+    left: 0;
+}
+
+.dsk8_section_1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.dsk8_section_1_box2 img {
+    border-radius: 25px;
+}
+
+.dsk8_card {
+    display: flex;
+    background: #F7F7F7;
+    border-radius: 25px;
+    padding: 15px 25px;
+    margin: 0 auto 45px;
+}
+
+.dsk8_section_2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dsk8_section_2_box2 {
+    background: #F7F7F7;
+    border-radius: 25px;
+    padding: 25px 35px;
+    width: calc(100% - 300px);
+}
+
+.dsk8_section_2_box2 div {
+    height: 77px;
+    border-bottom: 1px solid #F60404;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #330009;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding-bottom: 10px;
+}
+
+.dsk8_section_2_box2 button {
+    width: 386px;
+    height: 88px;
+    background: #8A0000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+    margin: 45px auto 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    display: block;
+}
+
+.button {
+    height: 88px;
+    background: #8A0000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    display: block;
+    cursor: pointer;
+}
+
+.bckgrnd_white {
+    background-color: white;
+}
+
+.bckgrnd_grey {
+    background-color: #2c2c2c;
+}
+
+/* dsk3 */
+.dsk3_arr_left {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.dsk3_password_container {
+    position: relative;
+    display: block;
+}
+
+.dsk3_password_container img {
+    position: absolute;
+    right: 15px;
+    bottom: calc(50% - 20px);
+}
+
+.dsk3_content {
+    width: 760px;
+    margin: 65px auto 65px;
+    position: relative;
+}
+
+.dsk3_content_wrapper {
+    position: relative;
+}
+
+.dsk3_content h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #330009;
+}
+
+.dsk3_content form input[type="text"] {
+    width: 760px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #272D4E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    padding: 0 15px;
+    color: grey;
+    margin: 5px auto 25px;
+}
+
+form label {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.dsk3_content form label {
+    color: #330009;
+}
+
+.dsk3_content form button {
+    width: 100%;
+    margin: 35px auto;
+}
+
+.dsk3_content_login {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #330009;
+}
+.dsk3_content_login a {
+    text-decoration: underline;
+    color: #EE3E54;
+}
+.dsk3_checkbox_container a {
+    text-decoration: underline;
+    color: #EE3E54;
+}
+
+/* dsk3 checkbox */
+.dsk3_checkbox_container {
+    display: block;
+    position: relative;
+    padding-left: 45px;
+    margin-top: 25px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.dsk3_checkbox_container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 30px;
+    width: 30px;
+    /* background-color: #eee; */
+    border: 1px solid #FF0000;
+    border-radius: 5px;
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.dsk3_checkbox_container input:checked~.checkmark:after {
+    display: block;
+}
+
+.dsk3_checkbox_container .checkmark:after {
+    left: 9px;
+    top: 3px;
+    width: 10px;
+    height: 17px;
+    border: solid #FF0000;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+/* dsk2 */
+.dsk2_content_wrapper {
+    margin: 200px auto;
+    position: relative;
+}
+
+/* dsk10 */
+.dsk10_cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 45px auto;
+}
+
+.dsk10_card {
+    margin: 0 0 65px 0;
+    padding: 25px 25px 45px;
+}
+
+.dsk10_card_type_1 {
+    background: linear-gradient(180deg, rgba(249, 108, 129, 0.99) 0%, rgba(54, 14, 20, 0.99) 100%);
+    box-shadow: 9px 5px 12px 5px #360E14;
+    border-radius: 0px 25px;
+    width: 596.34px;
+    height: 232.77px;
+}
+
+.dsk10_card_type_2 {
+    width: 596.34px;
+    height: 232.77px;
+    background: linear-gradient(180deg, rgba(249, 108, 129, 0.99) 0%, rgba(54, 14, 20, 0.99) 100%);
+    box-shadow: 9px 5px 12px 5px #360E14;
+    border-radius: 25px 0px;
+}
+
+.dsk10_form label {
+    color: white;
+}
+
+.dsk10_card_title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #8A0000;
+    margin-bottom: 10px;
+}
+
+.dsk10_card_desc {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.dsk10_form {
+    width: 760px;
+}
+
+.dsk10_form_title {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    color: #EE3E54;
+    margin-bottom: 35px;
+}
+
+.dsk10_form button {
+    padding: 0 85px;
+}
+
+.dsk10_form input {
+    display: block;
+    margin: 0 auto 25px;
+    width: 760px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #272D4E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    padding: 0 15px;
+    color: grey;
+    font-weight: normal;
+}
+.dsk10_form textarea{
+    resize: none;
+    background: #FFFFFF;
+    border: 2px solid #272D4E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    width: 100%;
+    height: 201px;
+    padding: 15px;
+    color: grey;
+    font-size: 20px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.dsk10_form_textarea_label{
+    display: block;
+}
+.dsk10_form input::placeholder {
+    color: gray;
+}
+.dsk2_checkbox_container{
+    margin: 55px auto;
+}
+/* dsk11 */
+.dsk11_h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 58px;
+color: #EE3E54;
+margin: 35px auto;
+}
+.dsk11_section_1_box_1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+}
+.dsk11_section_1_box_1 div{
+    margin: 0 auto 65px;
+}
+.dsk11_section_1{
+    display: flex;
+
+}
+.dsk11_section_3{
+    margin: 45px auto;
+}
+.dsk11_section11_3_title{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+margin-bottom: 15px;
+}
